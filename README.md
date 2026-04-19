@@ -97,4 +97,4 @@ Project ini dibuat untuk tujuan pembelajaran dan pengembangan. Bebas digunakan d
 
 ---
 
-Developed with ❤️ by **Antigravity AI**
+Developed with ❤️ by **DARMA**
